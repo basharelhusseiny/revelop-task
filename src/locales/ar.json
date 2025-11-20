@@ -1,0 +1,57 @@
+{
+  "sidebar": {
+    "menu": "القائمة",
+    "home": "الصفحة الرئيسية",
+    "accounts": "الحسابات",
+    "inventory": "المخزون",
+    "fixedAssets": "الأصول الثابتة"
+  },
+  "navbar": {
+    "accountant": "محاسب",
+    "search": "بحث"
+  },
+  "accounts": {
+    "searchPlaceholder": "البحث عن حساب...",
+    "addAccount": "إضافة حساب"
+  },
+  "accountTable": {
+    "accountID": "رقم الحساب",
+    "accountName": "اسم الحساب",
+    "mainAccount": "الحساب الرئيسي",
+    "status": "الحالة",
+    "manage": "إدارة",
+    "active": "نشط",
+    "inactive": "غير نشط",
+    "next": "التالي",
+    "previous": "السابق",
+    "edit": "تعديل",
+    "delete": "حذف"
+  },
+  "addAccount": {
+    "title": "إضافة حساب",
+    "fields": {
+      "accountId": "رقم الحساب",
+      "accountName": "اسم الحساب",
+      "accountNameLatin": "اسم الحساب اللاتيني",
+      "subAccount": "حساب فرعي",
+      "hasNoSub": "(لا يتفرع منه حسابات فرعية اخرى)",
+      "mainAccount": "الحساب الرئيسي",
+      "active": "نشط"
+    },
+    "buttons": {
+      "create": "إنشاء حساب",
+      "close": "إلغاء"
+    }
+  },
+  "accountTree": {
+    "genetics": "الأصول",
+    "adversaries": "الخصوم",
+    "expenses": "المصروفات",
+    "revenues": "الإيرادات",
+    "trading": "المتاجرة",
+    "buttons": {
+      "print": "طباعة",
+      "expandCollapse": "فتح / إغلاق الكل"
+    }
+  }
+}

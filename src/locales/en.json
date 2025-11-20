@@ -1,0 +1,57 @@
+{
+  "sidebar": {
+    "menu": "Menu",
+    "home": "Home",
+    "accounts": "Accounts",
+    "inventory": "Inventory",
+    "fixedAssets": "Fixed Assets"
+  },
+  "navbar": {
+    "accountant": "Accountant",
+    "search": "Search"
+  },
+  "accounts": {
+    "searchPlaceholder": "Search for an Account...",
+    "addAccount": "Add Account"
+  },
+  "accountTable": {
+    "accountID": "Account ID",
+    "accountName": "Account Name",
+    "mainAccount": "Main Account",
+    "status": "Status",
+    "manage": "Manage",
+    "active": "Active",
+    "inactive": "Inactive",
+    "next": "Next",
+    "previous": "Previous",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "addAccount": {
+    "title": "Add Account",
+    "fields": {
+      "accountId": "Account ID",
+      "accountName": "Account Name",
+      "accountNameLatin": "Account Name in Latin",
+      "subAccount": "Sub Account",
+      "hasNoSub": "(Has No Sub Accounts)",
+      "mainAccount": "Main Account",
+      "active": "Active"
+    },
+    "buttons": {
+      "create": "Add Account",
+      "close": "Close"
+    }
+  },
+  "accountTree": {
+    "genetics": "Genetics",
+    "adversaries": "Adversaries",
+    "expenses": "Expenses",
+    "revenues": "Revenues",
+    "trading": "Trading",
+    "buttons": {
+      "print": "Print",
+      "expandCollapse": "Expand / Collapse All"
+    }
+  }
+}
